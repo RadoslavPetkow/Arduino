@@ -55,4 +55,3 @@ Happy tinkering!
 
 ---
 
-Feel free to customize this README file to better fit the specifics of your projects and repository structure.
