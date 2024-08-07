@@ -1,4 +1,3 @@
-Here is a README file for the Arduino project that cycles through different LED combinations.
 
 ---
 
