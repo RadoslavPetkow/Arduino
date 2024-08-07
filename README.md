@@ -1,5 +1,3 @@
-Sure! Here is a sample README file for a directory containing small Arduino projects:
-
 ---
 
 # Arduino Projects Collection
