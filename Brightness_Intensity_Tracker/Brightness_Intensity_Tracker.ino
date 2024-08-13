@@ -2,7 +2,6 @@ String mes1("A Light With Brightness ");
 String mes2(" Has an Intensity of ");
 String mes3(".");
 int bright(1);
-
 int pause(1000);
 int x;
 
