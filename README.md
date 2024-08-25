@@ -49,7 +49,4 @@ We welcome contributions to this collection! If you have a project you'd like to
 
 This collection of projects is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
 
-Happy tinkering!
-
----
 
